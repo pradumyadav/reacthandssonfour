@@ -55,3 +55,32 @@ table{
    text-align: center;
    background-color:rgb(225, 201, 193);
 }
+.inputPage{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+/* label{
+    position:relative;
+    left: 180px;
+    top: 78px;
+} */
+
+input{
+    
+    border:4px solid rgb(152, 60, 239) ;
+    width: 40%;
+    margin: 90px 30px;
+    height: 60px;
+    border-radius: 10px;
+
+}
+
+.inputPage2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
